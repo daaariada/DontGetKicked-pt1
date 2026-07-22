@@ -162,7 +162,8 @@ L1-регуляризация предпочтительнее: учитывае
 
 ```bash
 # Скачать данные: https://www.kaggle.com/c/DontGetKicked/data
-# Положить training.csv в папку data/
+# Положить training.csv в папку src/data/
 
+cd src
 jupyter notebook dontgetkickedpt1.ipynb
 ```
